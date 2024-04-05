@@ -1,0 +1,18 @@
+[{	"codigo": 1,
+    "nome": "a espera de um milagre",
+    "canal": "warner",
+    "tipo": ["drama"]
+	
+},
+{	"codigo": 2,
+    "nome": "batman begins",
+    "canal": "Hbo Max",
+    "tipo": ["ação","Drama"]
+},
+{	"codigo": 3,
+    "nome": "a lagoa azul",
+    "canal": "Multishow",
+    "tipo": ["Drama","Comédia"]
+
+}
+]
